@@ -1,0 +1,26 @@
+# Defaults
+node_modules
+.DS_Store
+dist/
+coverage/
+.railway/
+
+# Secrets & Environment
+**/.env
+**/.env.*
+!**/.env.example
+
+# Logs
+logs/
+*.log
+backend/pumpportal_raw.log
+backend/pumpportal_raw*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime State
+state.json
+state.json.tmp
+backend/state.json
+backend/state.json.tmp

@@ -1,0 +1,19 @@
+{
+  "name": "ascii-tower-backend",
+  "version": "1.0.0",
+  "description": "Backend WebSocket server for ASCII Tower game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "capture": "node scripts/capture.js"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.87.6",
+    "dotenv": "^16.3.1",
+    "pg": "^8.11.3",
+    "ws": "^8.14.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

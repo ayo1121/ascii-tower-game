@@ -1,0 +1,406 @@
+{
+  "height": 16,
+  "lastActionTs": 1767438336553,
+  "log": [
+    {
+      "ts": 1767437079588,
+      "message": "block removed (height: 4)"
+    },
+    {
+      "ts": 1767437092768,
+      "message": "block added (height: 5)"
+    },
+    {
+      "ts": 1767437094660,
+      "message": "block removed (height: 4)"
+    },
+    {
+      "ts": 1767437113944,
+      "message": "block removed (height: 3)"
+    },
+    {
+      "ts": 1767437122512,
+      "message": "block added (height: 4)"
+    },
+    {
+      "ts": 1767437138508,
+      "message": "block removed (height: 3)"
+    },
+    {
+      "ts": 1767437165850,
+      "message": "block added (height: 4)"
+    },
+    {
+      "ts": 1767437192491,
+      "message": "block removed (height: 3)"
+    },
+    {
+      "ts": 1767437192923,
+      "message": "block removed (height: 2)"
+    },
+    {
+      "ts": 1767437192942,
+      "message": "block removed (height: 1)"
+    },
+    {
+      "ts": 1767437217542,
+      "message": "block removed (height: 0)"
+    },
+    {
+      "ts": 1767437217542,
+      "message": "tower empty"
+    },
+    {
+      "ts": 1767437253345,
+      "message": "block added (height: 1)"
+    },
+    {
+      "ts": 1767437254027,
+      "message": "block added (height: 2)"
+    },
+    {
+      "ts": 1767437273903,
+      "message": "block removed (height: 1)"
+    },
+    {
+      "ts": 1767437327505,
+      "message": "block removed (height: 0)"
+    },
+    {
+      "ts": 1767437327505,
+      "message": "tower empty"
+    },
+    {
+      "ts": 1767437385559,
+      "message": "block added (height: 1)"
+    },
+    {
+      "ts": 1767437421617,
+      "message": "block added (height: 2)"
+    },
+    {
+      "ts": 1767437423067,
+      "message": "block added (height: 3)"
+    },
+    {
+      "ts": 1767437453254,
+      "message": "block added (height: 4)"
+    },
+    {
+      "ts": 1767437460745,
+      "message": "block removed (height: 3)"
+    },
+    {
+      "ts": 1767437484592,
+      "message": "block added (height: 4)"
+    },
+    {
+      "ts": 1767437497963,
+      "message": "block added (height: 5)"
+    },
+    {
+      "ts": 1767437508710,
+      "message": "block removed (height: 4)"
+    },
+    {
+      "ts": 1767437551722,
+      "message": "block removed (height: 3)"
+    },
+    {
+      "ts": 1767437554116,
+      "message": "block removed (height: 2)"
+    },
+    {
+      "ts": 1767437610674,
+      "message": "block removed (height: 1)"
+    },
+    {
+      "ts": 1767437625176,
+      "message": "block added (height: 2)"
+    },
+    {
+      "ts": 1767437625250,
+      "message": "block removed (height: 1)"
+    },
+    {
+      "ts": 1767437629435,
+      "message": "block added (height: 2)"
+    },
+    {
+      "ts": 1767437631814,
+      "message": "block removed (height: 1)"
+    },
+    {
+      "ts": 1767437633781,
+      "message": "block removed (height: 0)"
+    },
+    {
+      "ts": 1767437633781,
+      "message": "tower empty"
+    },
+    {
+      "ts": 1767437639055,
+      "message": "block added (height: 1)"
+    },
+    {
+      "ts": 1767437657546,
+      "message": "block removed (height: 0)"
+    },
+    {
+      "ts": 1767437657546,
+      "message": "tower empty"
+    },
+    {
+      "ts": 1767437660749,
+      "message": "block added (height: 1)"
+    },
+    {
+      "ts": 1767437693759,
+      "message": "block removed (height: 0)"
+    },
+    {
+      "ts": 1767437693759,
+      "message": "tower empty"
+    },
+    {
+      "ts": 1767437695592,
+      "message": "block added (height: 1)"
+    },
+    {
+      "ts": 1767437695953,
+      "message": "block removed (height: 0)"
+    },
+    {
+      "ts": 1767437695953,
+      "message": "tower empty"
+    },
+    {
+      "ts": 1767437733633,
+      "message": "block added (height: 1)"
+    },
+    {
+      "ts": 1767437759936,
+      "message": "block added (height: 2)"
+    },
+    {
+      "ts": 1767437761150,
+      "message": "block added (height: 3)"
+    },
+    {
+      "ts": 1767437761307,
+      "message": "block added (height: 4)"
+    },
+    {
+      "ts": 1767437786566,
+      "message": "block added (height: 5)"
+    },
+    {
+      "ts": 1767437793270,
+      "message": "block removed (height: 4)"
+    },
+    {
+      "ts": 1767437795491,
+      "message": "block removed (height: 3)"
+    },
+    {
+      "ts": 1767437809089,
+      "message": "block added (height: 4)"
+    },
+    {
+      "ts": 1767437839426,
+      "message": "block removed (height: 3)"
+    },
+    {
+      "ts": 1767437846501,
+      "message": "block added (height: 4)"
+    },
+    {
+      "ts": 1767437869372,
+      "message": "block removed (height: 3)"
+    },
+    {
+      "ts": 1767437903468,
+      "message": "block removed (height: 2)"
+    },
+    {
+      "ts": 1767437920726,
+      "message": "block removed (height: 1)"
+    },
+    {
+      "ts": 1767437920737,
+      "message": "block removed (height: 0)"
+    },
+    {
+      "ts": 1767437920737,
+      "message": "tower empty"
+    },
+    {
+      "ts": 1767437939743,
+      "message": "block added (height: 1)"
+    },
+    {
+      "ts": 1767437954994,
+      "message": "block added (height: 2)"
+    },
+    {
+      "ts": 1767437968583,
+      "message": "block added (height: 3)"
+    },
+    {
+      "ts": 1767437968825,
+      "message": "block removed (height: 2)"
+    },
+    {
+      "ts": 1767438053167,
+      "message": "block added (height: 3)"
+    },
+    {
+      "ts": 1767438056012,
+      "message": "block removed (height: 2)"
+    },
+    {
+      "ts": 1767438089280,
+      "message": "block added (height: 3)"
+    },
+    {
+      "ts": 1767438123461,
+      "message": "block added (height: 4)"
+    },
+    {
+      "ts": 1767438178317,
+      "message": "block removed (height: 3)"
+    },
+    {
+      "ts": 1767438197276,
+      "message": "block removed (height: 2)"
+    },
+    {
+      "ts": 1767438204856,
+      "message": "block removed (height: 1)"
+    },
+    {
+      "ts": 1767438204862,
+      "message": "block removed (height: 0)"
+    },
+    {
+      "ts": 1767438204862,
+      "message": "tower empty"
+    },
+    {
+      "ts": 1767438240066,
+      "message": "block added (height: 1)"
+    },
+    {
+      "ts": 1767438250475,
+      "message": "block added (height: 2)"
+    },
+    {
+      "ts": 1767438257163,
+      "message": "block added (height: 3)"
+    },
+    {
+      "ts": 1767438276164,
+      "message": "block removed (height: 2)"
+    },
+    {
+      "ts": 1767438276908,
+      "message": "block removed (height: 1)"
+    },
+    {
+      "ts": 1767438279026,
+      "message": "block removed (height: 0)"
+    },
+    {
+      "ts": 1767438279026,
+      "message": "tower empty"
+    },
+    {
+      "ts": 1767438279952,
+      "message": "block added (height: 1)"
+    },
+    {
+      "ts": 1767438280308,
+      "message": "block added (height: 2)"
+    },
+    {
+      "ts": 1767438280324,
+      "message": "block added (height: 3)"
+    },
+    {
+      "ts": 1767438280339,
+      "message": "block added (height: 4)"
+    },
+    {
+      "ts": 1767438280357,
+      "message": "block added (height: 5)"
+    },
+    {
+      "ts": 1767438280373,
+      "message": "block added (height: 6)"
+    },
+    {
+      "ts": 1767438281034,
+      "message": "block added (height: 7)"
+    },
+    {
+      "ts": 1767438281048,
+      "message": "block added (height: 8)"
+    },
+    {
+      "ts": 1767438281061,
+      "message": "block added (height: 9)"
+    },
+    {
+      "ts": 1767438281073,
+      "message": "block added (height: 10)"
+    },
+    {
+      "ts": 1767438281271,
+      "message": "block added (height: 11)"
+    },
+    {
+      "ts": 1767438281278,
+      "message": "block removed (height: 10)"
+    },
+    {
+      "ts": 1767438281414,
+      "message": "block added (height: 11)"
+    },
+    {
+      "ts": 1767438282122,
+      "message": "block added (height: 12)"
+    },
+    {
+      "ts": 1767438282129,
+      "message": "block added (height: 13)"
+    },
+    {
+      "ts": 1767438285216,
+      "message": "block added (height: 14)"
+    },
+    {
+      "ts": 1767438286267,
+      "message": "block added (height: 15)"
+    },
+    {
+      "ts": 1767438294566,
+      "message": "block added (height: 16)"
+    },
+    {
+      "ts": 1767438316392,
+      "message": "block removed (height: 15)"
+    },
+    {
+      "ts": 1767438323914,
+      "message": "block added (height: 16)"
+    },
+    {
+      "ts": 1767438329246,
+      "message": "block added (height: 17)"
+    },
+    {
+      "ts": 1767438336553,
+      "message": "block removed (height: 16)"
+    }
+  ]
+}
