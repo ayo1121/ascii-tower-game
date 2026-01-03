@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from 'react'
 import Tower from './components/Tower.jsx'
 
-const WS_URL = 'ws://localhost:8080'
+const WS_URL = import.meta.env.VITE_WS_URL || 'ws://localhost:8080'
 const GAME_TITLE = 'building a building'
 const SHOW_DEV_CONTROLS = import.meta.env.VITE_DEV_CONTROLS === 'true'
 const PUMP_FUN_URL = 'https://pump.fun/coin/7TQQUEBZbmNe3t2mkrkXwPm6pKJMoqLvDa3NM5Wjpump'
@@ -95,9 +95,8 @@ function App() {
                 rel="noopener noreferrer"
                 className="buy-bubble"
                 title="buy on pump.fun"
-            >
-                buy
-            </a>
+                build
+            </a >
         </>
     )
 }
