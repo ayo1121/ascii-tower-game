@@ -95,8 +95,9 @@ function App() {
                 rel="noopener noreferrer"
                 className="buy-bubble"
                 title="buy on pump.fun"
+            >
                 build
-            </a >
+            </a>
         </>
     )
 }
